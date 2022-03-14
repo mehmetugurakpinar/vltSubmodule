@@ -1,0 +1,3 @@
+[submodule "javaparser-maven-sample"]
+	path = javaparser-maven-sample
+	url = https://github.com/javaparser/javaparser-maven-sample.git
